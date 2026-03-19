@@ -1,0 +1,218 @@
+country_code,country_name,region_code
+ABW,Aruba,LCN
+AFG,Afghanistan,SAS
+AGO,Angola,SSF
+ALB,Albania,ECS
+AND,Andorra,ECS
+ARE,United Arab Emirates,MEA
+ARG,Argentina,LCN
+ARM,Armenia,ECS
+ASM,American Samoa,EAS
+ATG,Antigua and Barbuda,LCN
+AUS,Australia,EAS
+AUT,Austria,ECS
+AZE,Azerbaijan,ECS
+BDI,Burundi,SSF
+BEL,Belgium,ECS
+BEN,Benin,SSF
+BFA,Burkina Faso,SSF
+BGD,Bangladesh,SAS
+BGR,Bulgaria,ECS
+BHR,Bahrain,MEA
+BHS,"Bahamas, The",LCN
+BIH,Bosnia and Herzegovina,ECS
+BLR,Belarus,ECS
+BLZ,Belize,LCN
+BMU,Bermuda,NAC
+BOL,Bolivia,LCN
+BRA,Brazil,LCN
+BRB,Barbados,LCN
+BRN,Brunei Darussalam,EAS
+BTN,Bhutan,SAS
+BWA,Botswana,SSF
+CAF,Central African Republic,SSF
+CAN,Canada,NAC
+CHE,Switzerland,ECS
+CHI,Channel Islands,ECS
+CHL,Chile,LCN
+CHN,China,EAS
+CIV,Cote d'Ivoire,SSF
+CMR,Cameroon,SSF
+COD,"Congo, Dem. Rep.",SSF
+COG,"Congo, Rep.",SSF
+COL,Colombia,LCN
+COM,Comoros,SSF
+CPV,Cabo Verde,SSF
+CRI,Costa Rica,LCN
+CUB,Cuba,LCN
+CUW,Curacao,LCN
+CYM,Cayman Islands,LCN
+CYP,Cyprus,ECS
+CZE,Czechia,ECS
+DEU,Germany,ECS
+DJI,Djibouti,MEA
+DMA,Dominica,LCN
+DNK,Denmark,ECS
+DOM,Dominican Republic,LCN
+DZA,Algeria,MEA
+ECU,Ecuador,LCN
+EGY,"Egypt, Arab Rep.",MEA
+ERI,Eritrea,SSF
+ESP,Spain,ECS
+EST,Estonia,ECS
+ETH,Ethiopia,SSF
+FIN,Finland,ECS
+FJI,Fiji,EAS
+FRA,France,ECS
+FRO,Faroe Islands,ECS
+FSM,"Micronesia, Fed. Sts.",EAS
+GAB,Gabon,SSF
+GBR,United Kingdom,ECS
+GEO,Georgia,ECS
+GHA,Ghana,SSF
+GIB,Gibraltar,ECS
+GIN,Guinea,SSF
+GMB,"Gambia, The",SSF
+GNB,Guinea-Bissau,SSF
+GNQ,Equatorial Guinea,SSF
+GRC,Greece,ECS
+GRD,Grenada,LCN
+GRL,Greenland,ECS
+GTM,Guatemala,LCN
+GUM,Guam,EAS
+GUY,Guyana,LCN
+HKG,"Hong Kong SAR, China",EAS
+HND,Honduras,LCN
+HRV,Croatia,ECS
+HTI,Haiti,LCN
+HUN,Hungary,ECS
+IDN,Indonesia,EAS
+IMN,Isle of Man,ECS
+IND,India,SAS
+IRL,Ireland,ECS
+IRN,"Iran, Islamic Rep.",MEA
+IRQ,Iraq,MEA
+ISL,Iceland,ECS
+ISR,Israel,MEA
+ITA,Italy,ECS
+JAM,Jamaica,LCN
+JOR,Jordan,MEA
+JPN,Japan,EAS
+KAZ,Kazakhstan,ECS
+KEN,Kenya,SSF
+KGZ,Kyrgyz Republic,ECS
+KHM,Cambodia,EAS
+KIR,Kiribati,EAS
+KNA,St. Kitts and Nevis,LCN
+KOR,"Korea, Rep.",EAS
+KWT,Kuwait,MEA
+LAO,Lao PDR,EAS
+LBN,Lebanon,MEA
+LBR,Liberia,SSF
+LBY,Libya,MEA
+LCA,St. Lucia,LCN
+LIE,Liechtenstein,ECS
+LKA,Sri Lanka,SAS
+LSO,Lesotho,SSF
+LTU,Lithuania,ECS
+LUX,Luxembourg,ECS
+LVA,Latvia,ECS
+MAC,"Macao SAR, China",EAS
+MAF,St. Martin (French part),LCN
+MAR,Morocco,MEA
+MCO,Monaco,ECS
+MDA,Moldova,ECS
+MDG,Madagascar,SSF
+MDV,Maldives,SAS
+MEX,Mexico,LCN
+MHL,Marshall Islands,EAS
+MKD,North Macedonia,ECS
+MLI,Mali,SSF
+MLT,Malta,MEA
+MMR,Myanmar,EAS
+MNE,Montenegro,ECS
+MNG,Mongolia,EAS
+MNP,Northern Mariana Islands,EAS
+MOZ,Mozambique,SSF
+MRT,Mauritania,SSF
+MUS,Mauritius,SSF
+MWI,Malawi,SSF
+MYS,Malaysia,EAS
+NAM,Namibia,SSF
+NCL,New Caledonia,EAS
+NER,Niger,SSF
+NGA,Nigeria,SSF
+NIC,Nicaragua,LCN
+NLD,Netherlands,ECS
+NOR,Norway,ECS
+NPL,Nepal,SAS
+NRU,Nauru,EAS
+NZL,New Zealand,EAS
+OMN,Oman,MEA
+PAK,Pakistan,SAS
+PAN,Panama,LCN
+PER,Peru,LCN
+PHL,Philippines,EAS
+PLW,Palau,EAS
+PNG,Papua New Guinea,EAS
+POL,Poland,ECS
+PRI,Puerto Rico,LCN
+PRK,"Korea, Dem. People's Rep.",EAS
+PRT,Portugal,ECS
+PRY,Paraguay,LCN
+PSE,West Bank and Gaza,MEA
+PYF,French Polynesia,EAS
+QAT,Qatar,MEA
+ROU,Romania,ECS
+RUS,Russian Federation,ECS
+RWA,Rwanda,SSF
+SAU,Saudi Arabia,MEA
+SDN,Sudan,SSF
+SEN,Senegal,SSF
+SGP,Singapore,EAS
+SLB,Solomon Islands,EAS
+SLE,Sierra Leone,SSF
+SLV,El Salvador,LCN
+SMR,San Marino,ECS
+SOM,Somalia,SSF
+SRB,Serbia,ECS
+SSD,South Sudan,SSF
+STP,Sao Tome and Principe,SSF
+SUR,Suriname,LCN
+SVK,Slovak Republic,ECS
+SVN,Slovenia,ECS
+SWE,Sweden,ECS
+SWZ,Eswatini,SSF
+SXM,Sint Maarten (Dutch part),LCN
+SYC,Seychelles,SSF
+SYR,Syrian Arab Republic,MEA
+TCA,Turks and Caicos Islands,LCN
+TCD,Chad,SSF
+TGO,Togo,SSF
+THA,Thailand,EAS
+TJK,Tajikistan,ECS
+TKM,Turkmenistan,ECS
+TLS,Timor-Leste,EAS
+TON,Tonga,EAS
+TTO,Trinidad and Tobago,LCN
+TUN,Tunisia,MEA
+TUR,Turkiye,ECS
+TUV,Tuvalu,EAS
+TZA,Tanzania,SSF
+UGA,Uganda,SSF
+UKR,Ukraine,ECS
+URY,Uruguay,LCN
+USA,United States,NAC
+UZB,Uzbekistan,ECS
+VCT,St. Vincent and the Grenadines,LCN
+VEN,"Venezuela, RB",LCN
+VGB,British Virgin Islands,LCN
+VIR,Virgin Islands (U.S.),LCN
+VNM,Viet Nam,EAS
+VUT,Vanuatu,EAS
+WSM,Samoa,EAS
+XKX,Kosovo,ECS
+YEM,"Yemen, Rep.",MEA
+ZAF,South Africa,SSF
+ZMB,Zambia,SSF
+ZWE,Zimbabwe,SSF
